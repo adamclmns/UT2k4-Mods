@@ -20,7 +20,10 @@
   * Clone to /Applications/Unreal Tournament 2004.app/
 
 ### Windows
-  * Clone to _can someone supply the correct directory?_
+  * Clone to:
+    For Original CD: #TODO:
+    For GOG: #TODO:
+    For Steam: C:\Program Files (x86)\Steam\steamapps\common\Unreal Tournament 2004 
 
 ## Thanks / Credits
   
